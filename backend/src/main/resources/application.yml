@@ -37,7 +37,7 @@ spring:
 
 anthropic:
   api:
-    key: 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
+    key: YOUR_API_KEY
     base-url: https://api.anthropic.com/v1
     model: claude-sonnet-4-20250514
     max-tokens: 4096
